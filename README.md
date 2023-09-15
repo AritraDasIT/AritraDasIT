@@ -1,4 +1,4 @@
-![MasterHead](https://teamtweaks1-blog.s3.us-east-2.amazonaws.com/blog/wp-content/uploads/2023/03/15102639/TT-How-To-Hire-Dedicated-Full-Stack-Developer-2023_.png)
+![MasterHead](https://www.linkedin.com/in/aritra-das-02094a220/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Aritra Das</h1>
 <h3 align="center">I am passionate about pursuing my major in Information Technology and computer science. My goal is to get a job or internship in IT field after or during graduation.</h3>
