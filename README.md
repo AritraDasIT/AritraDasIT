@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud Devops**
 
-- 📝 I regularly write articles on [https://medium.com/](https://medium.com/)
+- 📝 I regularly write articles on [https://medium.com/@aritradas.stthomasit]
 
 - 💬 Ask me about **Full stack , Python**
 
