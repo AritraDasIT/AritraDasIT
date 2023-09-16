@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aritra Das</h1>
 <h3 align="center">I am passionate about pursuing my major in Information Technology and computer science. My goal is to get a job or internship in IT field after or during graduation.</h3>
 
-<img align="right" alt="coding" width="500"  hight="300" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
+<img align="right" alt="coding" width="500"  hight="400" src="https://webcoder.co.in/wp-content/uploads/2021/04/website.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritradasit&label=Profile%20views&color=0e75b6&style=flat" alt="aritradasit" /> </p>
 
