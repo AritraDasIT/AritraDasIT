@@ -16,7 +16,7 @@
 <br>📝 I regularly write articles on [https://medium.com/@aritradas.stthomasit] .
 <br>📫 How to reach me aritradas.stthomasit@gmail.com .
 <br>📄 Know about my experiences https://www.guvi.in/aritradasstthomasit07<br>
-<br>![image](https://github.com/AritraDasIT/AritraDasIT/assets/97398407/3b22719f-db26-4397-8493-15dcfbf1c138) - https://www.hackerrank.com/rangitpartha)
+
 
 
 
