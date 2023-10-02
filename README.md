@@ -13,7 +13,7 @@
 <br>🌱 I’m currently learning Cloud Devops.<br>
 💬 Ask me about Full stack , Python.<br>
 🔭 I’m currently working at Bharat-Intern and CodSoft  as a Intern.
-<br>📝 I regularly write articles on [https://medium.com/@aritradas.stthomasit] .
+<br>📝 I regularly write articles on  [https://medium.com/@aritradas.stthomasit] .
 <br>📫 How to reach me aritradas.stthomasit@gmail.com .
 <br>📄 Know about my experiences https://www.guvi.in/aritradasstthomasit07<br>
 
