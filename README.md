@@ -1,4 +1,3 @@
-
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO4X5iZa2exA/profile-displaybackgroundimage-shrink_350_1400/0/1694714741947?e=1700092800&v=beta&t=Z-xslfazgaihjpsB8fx13eJm4l7kAr9JahZAm9baVOU)
 
 <h1 align="center">Hi 👋, I'm Aritra Das</h1>
