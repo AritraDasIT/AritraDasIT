@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO4X5iZa2exA/profile-displaybackgroundimage-shrink_350_1400/0/1694714741947?e=1700092800&v=beta&t=Z-xslfazgaihjpsB8fx13eJm4l7kAr9JahZAm9baVOU)
+![MasterHead](https://www.linkedin.com/in/aritra-das-02094a220/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Aritra Das</h1>
 <h3 align="center">I am passionate about pursuing my major in Information Technology and computer science. My goal is to get a job or internship in IT field after or during graduation.</h3>
