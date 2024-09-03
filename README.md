@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO4X5iZa2exA/profile-displaybackgroundimage-shrink_350_1400/0/1694714743878?e=1724889600&v=beta&t=ePuYbWNB5zTJ1a7YyTdw-kY9hvfaStWN653mnGcXaco) 
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFO4X5iZa2exA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1694714743878?e=1730937600&v=beta&t=Bt25zCS4Dv9gXlILhHnc28qZjKsrQYKvRF-aY0Q05vA) 
 
 <h1 align="center">Hi 👋, I'm Aritra Das</h1>
 <h3 align="center">I am passionate about pursuing my major in Information Technology and computer science. My goal is to get a job or internship in IT field after or during graduation.</h3>
