@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/AritraDasIT/img) 
+
 
 <h1 align="center">Hi 👋, I'm Aritra Das</h1>
 <h3 align="center">I am passionate about pursuing my major in Information Technology and computer science. My goal is to get a job or internship in IT field after or during graduation.</h3>
